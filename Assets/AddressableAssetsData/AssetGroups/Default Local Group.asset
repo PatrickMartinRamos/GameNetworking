@@ -15,6 +15,11 @@ MonoBehaviour:
   m_GroupName: Default Local Group
   m_GUID: 98ccea56eba8d7443be107917dadb7d5
   m_SerializeEntries:
+  - m_GUID: 110f3ebee25ed8f40b7c86c1c6ade639
+    m_Address: Assets/Audio/laser-shot-ingame-230500.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5215b49a47e2d4e4394489e9160dafb1
     m_Address: Assets/Prefabs/Cube.prefab
     m_ReadOnly: 0
